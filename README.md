@@ -9,8 +9,8 @@
 
 **技能清单**
 
-- 💻 &#160; ![](https://img.shields.io/badge/-Objc-333333?style=flat&logo=Object-C&logoColor=333333)![Linux](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift&logoColor=Orange)![](https://img.shields.io/badge/-GoLand-333333?style=flat&logo=Object-C&logoColor=333333)
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
+- 💻 &#160; ![](https://img.shields.io/badge/-Objc-333333?style=flat&logo=Object-C&logoColor=333333) ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift&logoColor=Orange) ![](https://img.shields.io/badge/-GoLand-333333?style=flat&logo=Object-C&logoColor=333333)
+- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 
